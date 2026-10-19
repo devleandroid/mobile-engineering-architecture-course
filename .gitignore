@@ -1,0 +1,14 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# IDEs e Editores
+.idea/
+.vscode/
+*.iml
+
+# Build e Cache
+build/
+.gradle/
+.dart_tool/
+.pub/
