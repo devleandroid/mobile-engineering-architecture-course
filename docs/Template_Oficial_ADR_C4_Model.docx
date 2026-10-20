@@ -1,0 +1,19 @@
+# TEMPLATE OFICIAL: ADR & C4 MODEL
+
+## 1. TÍTULO DA DECISÃO (ADR-00X)
+Status: [Proposto | Aceito | Depreciado]
+Data: YYYY-MM-DD
+Autores: [Nome do Autor / Time]
+
+## 2. CONTEXTO
+Descreva o problema de negócio ou técnico que motiva esta decisão arquitetural.
+
+## 3. DECISÃO
+Descreva a solução adotada, padrões, frameworks ou estruturas escolhidas.
+
+## 4. CONSEQUÊNCIAS
+- Positivas: [Benefícios]
+- Mitigações/Ressalvas: [Trade-offs aceitos]
+
+## 5. VISÃO C4 MODEL (CONTAINER)
+[Insira o diagrama do C4 Model gerado no Draw.io ou Mermaid aqui]
